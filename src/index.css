@@ -1,0 +1,40 @@
+.container {
+  background-color: #232323;
+  color: #fff;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border-radius: 5px;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav > * {
+  margin-right: 0.5rem;
+}
+
+.btn-red {
+  background-color: rgb(255, 49, 49);
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+}
+
+.btn-yellow {
+  background-color: rgb(247, 250, 71);
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+}
+
+.btn-gray {
+  background-color: rgb(202, 202, 202);
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+}
+
+.body {
+  margin-top: 0.5rem;
+}

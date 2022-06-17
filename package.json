@@ -1,0 +1,14 @@
+{
+  "name": "dvorakchen-apple-box",
+  "version": "1.0.0",
+  "description": "a test project",
+  "scripts": {},
+  "author": "chen dvorak",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.14"
+  }
+}
