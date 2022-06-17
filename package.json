@@ -1,7 +1,8 @@
 {
-  "name": "dvorakchen-apple-box",
+  "name": "dvorakchen-s-apple-box",
   "version": "1.0.0",
   "description": "a test project",
+  "main": "src/index.tsx",
   "scripts": {},
   "author": "chen dvorak",
   "license": "MIT",
