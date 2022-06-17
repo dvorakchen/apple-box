@@ -16,4 +16,4 @@ function App() {
 }
 ```
 
-![image.png](https://tva1.sinaimg.cn/large/005PljWlgy1h3b2ugb4abj30ju02ljrd.jpg)
+![image.png](https://github.com/ChenDvorak/apple-box/blob/main/images/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
