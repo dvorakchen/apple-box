@@ -1,9 +1,11 @@
 .container {
+  box-sizing: border-box;
   background-color: #232323;
   color: #fff;
   padding: 0.5rem;
-  margin: 0.5rem;
   border-radius: 5px;
+  height: 100%;
+  width: 100%;
 }
 
 .nav {
@@ -18,21 +20,21 @@
   background-color: rgb(255, 49, 49);
   width: 10px;
   height: 10px;
-  border-radius: 999px;
+  border-radius: 50%;
 }
 
 .btn-yellow {
   background-color: rgb(247, 250, 71);
   width: 10px;
   height: 10px;
-  border-radius: 999px;
+  border-radius: 50%;
 }
 
 .btn-gray {
   background-color: rgb(202, 202, 202);
   width: 10px;
   height: 10px;
-  border-radius: 999px;
+  border-radius: 50%;
 }
 
 .body {

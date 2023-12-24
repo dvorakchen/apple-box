@@ -1,15 +1,35 @@
 {
   "name": "dvorakchen-s-apple-box",
-  "version": "1.0.0",
+  "version": "1.0.5",
+  "keywords": [
+    "window",
+    "apple style"
+  ],
   "description": "a test project",
-  "main": "src/index.tsx",
-  "scripts": {},
-  "author": "chen dvorak",
+  "main": "package.json",
+  "homepage": "https://github.com/dvorakchen/apple-box",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "cypress open"
+  },
+  "author": "Dvorak Chen",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^18.0.0"
+    "react": "^18.x"
   },
   "devDependencies": {
-    "@types/react": "^18.0.14"
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@types/react": "^18.0.14",
+    "@vitejs/plugin-react": "^4.2.1",
+    "cypress": "^13.6.1",
+    "react-dom": "^18.2.0",
+    "rollup": "^4.9.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "vite": "^4.0.0"
   }
 }
