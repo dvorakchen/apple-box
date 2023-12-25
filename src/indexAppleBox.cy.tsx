@@ -1,6 +1,5 @@
 import React from 'react'
 import { AppleBox } from './index'
-import { mount } from 'cypress/react';
 
 describe('<AppleBox />', () => {
 
